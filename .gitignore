@@ -1,0 +1,13 @@
+.idea
+docs
+out
+unittests/coverage
+var/ngdocs/templates
+node_modules/
+dist/
+doc/
+test
+*~
+*.py[cod]
+.DS_Store
+.vscode
